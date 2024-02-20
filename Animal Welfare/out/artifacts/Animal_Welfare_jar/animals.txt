@@ -1,0 +1,2 @@
+Lion,Mammal,5
+Eagle,Bird,3
